@@ -1,0 +1,50 @@
+AL: FL, GA
+GA: FL, SC, NC
+FL:
+AZ: NM, UT
+UT: CO, WY
+NM: TX, OK, CO
+AR: LA, MS, TN, MO
+MO: TN, KY, IL
+MO: TN, KY, IL
+TN: AL, GA, NC, VA, KY
+MS: AL, TN
+LA: MS
+CA: AZ, NV
+NV: AZ, UT, ID
+CO: OK, KS, NE, WY
+WY: NE, SD
+NE: KS, MO, IA
+KS: MO
+OK: AR, MO, KS
+CT: RI, MA
+MA:
+RI: MA
+DE: NJ
+NJ: NY
+NC: VA
+SC: NC
+ID: UT, WY, MT
+MT: WY, SD, ND
+IL: KY, IN, WI
+WI: MI
+IN: KY, OH, MI
+KY: VA, WV, OH
+MI: OH
+OH: PA, WV
+IA: MO, IL, WI, MN
+MN: WI
+WV: VA, MD, PA
+VA: DC, MD
+MD: DE
+ND: SD, MN
+SD: NE, IA, MN
+NH: MA, ME
+ME:
+NY: MA, CT, VT
+TX: LA, AR, OK
+VT: MA, NH
+PA: MD, DE, NJ, NY
+OR: CA, NV, ID, WA
+WA: ID
+DC: MD
